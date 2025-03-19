@@ -2,6 +2,8 @@
 
 Backend for the Bindfit and Bindsim web applications.
 
+See also: [Bindfit web application](https://github.com/opendatastudio/bindfit-webapp)
+
 ## Installation
 
 * `git clone <repository-url>` this repository
