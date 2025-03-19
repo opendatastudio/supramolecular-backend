@@ -1,6 +1,6 @@
-# Supramolecular.org apps API
+# Backend API for Supramolecular.org apps
 
-Developer documentation coming soon.
+Backend for the Bindfit and Bindsim web applications.
 
 ## Installation
 
